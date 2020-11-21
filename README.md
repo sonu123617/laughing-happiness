@@ -1,1 +1,2 @@
-# laughing-happiness
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
